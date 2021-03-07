@@ -1,0 +1,18 @@
+{
+  "name": "colgrad",
+  "version": "1.0.0",
+  "description": "Version of Plume I'm tinkering with to use colorsets from my local machine 'Colony' & Figlet to output a neater terminal login message",
+  "bin": {
+    "colgrad": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "WTFPL",
+  "dependencies": {
+    "figlet": "^1.5.0"
+  }
+}
